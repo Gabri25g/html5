@@ -1,0 +1,13 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'anime';
+    src: url('Fontes/anime_ace_bb/animeace2bb_ot/animeace2_bld.otf') format('opentype'),
+    url('Fontes/anime_ace_bb/animeace2bb_tt/animeace2_bld.ttf') format('truetype'); 
+    
+}
+h1{
+    font-family: 'anime';
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+}
